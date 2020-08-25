@@ -17,4 +17,3 @@ class game extends mainGame implements template {
 }
 
 $game = new game();
-asd
