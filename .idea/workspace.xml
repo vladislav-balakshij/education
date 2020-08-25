@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="939cb473-a94e-487d-8ab9-d5ac7a611051" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gPbKnqNbltsq9sKma2hrjh97Aq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="939cb473-a94e-487d-8ab9-d5ac7a611051" name="Default Changelist" comment="" />
+      <created>1598019113075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598019113075</updated>
+      <workItem from="1598019114109" duration="1743000" />
+      <workItem from="1598361618776" duration="889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1502" y="359" key="#CLI_Interpreters" timestamp="1598019158516">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1502" y="359" key="#CLI_Interpreters/0.0.2560.1400@0.0.2560.1400" timestamp="1598019158516" />
+    <state x="1375" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598019138328">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1375" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598019138328" />
+    <state width="1235" height="401" key="GridCell.Tab.0.bottom" timestamp="1598022916605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598022916605" />
+    <state width="1235" height="401" key="GridCell.Tab.0.center" timestamp="1598022916605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598022916605" />
+    <state width="1235" height="401" key="GridCell.Tab.0.left" timestamp="1598022916605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598022916605" />
+    <state width="1235" height="401" key="GridCell.Tab.0.right" timestamp="1598022916605">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598022916605" />
+    <state x="1373" y="100" width="1093" height="1207" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598362508580">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1373" y="100" width="1093" height="1207" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400/-1920.1327.1920.1040@0.0.2560.1400" timestamp="1598362508580" />
+  </component>
+</project>
